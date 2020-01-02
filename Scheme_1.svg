@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="800" viewBox="0 0 900 700">
+    <rect x="200" y="100" width="50" height="300" fill="#b22234"/>
+    <rect x="125" y="400" width="200" height="150" fill="Gray"/>
+    <rect x="125" y="550" width="200" height="150" fill="Yellow"/>
+
+    <g stroke="green" >
+        <!-- Верхняя стрелка F1 -->
+        <line x1="225" y1="25" x2="225" y2="100"
+            stroke-width="3"  />
+        <line x1="210" y1="75" x2="225" y2="100"
+            stroke-width="3"  />
+        <line x1="240" y1="75" x2="225" y2="100"
+            stroke-width="3"  />
+        <text x="240" y="50" font-family="Verdana" font-size="26" fill="green" > F1 </text>
+        <!-- Средняя стрелка F2 -->
+        <line x1="225" y1="325" x2="225" y2="400"
+            stroke-width="3"  />
+        <line x1="210" y1="375" x2="225" y2="400"
+            stroke-width="3"  />
+        <line x1="240" y1="375" x2="225" y2="400"
+            stroke-width="3"  />
+        <text x="210" y="300" font-family="Verdana" font-size="26" fill="green" > F2 </text>
+        <!-- Средняя стрелка F3 -->
+        <line x1="225" y1="475" x2="225" y2="550"
+            stroke-width="3"  />
+        <line x1="210" y1="525" x2="225" y2="550"
+            stroke-width="3"  />
+        <line x1="240" y1="525" x2="225" y2="550"
+            stroke-width="3"  />
+        <text x="240" y="500" font-family="Verdana" font-size="26" fill="green" > F3 </text>
+    </g>
+    <!-- Распределённая нагрузка -->
+    <g stroke="orange" >
+         <line x1="180" y1="120" x2="180" y2="180"
+            stroke-width="3"  />
+        <line x1="180" y1="120" x2="190" y2="140"
+            stroke-width="3"  />
+        <line x1="180" y1="120" x2="170" y2="140"
+            stroke-width="3"  />
+
+        <line x1="270" y1="120" x2="270" y2="180"
+            stroke-width="3"  />
+        <line x1="270" y1="120" x2="280" y2="140"
+            stroke-width="3"  />
+        <line x1="270" y1="120" x2="260" y2="140"
+            stroke-width="3"  />
+        
+
+        <line x1="180" y1="220" x2="180" y2="280"
+            stroke-width="3"  />
+        <line x1="180" y1="220" x2="190" y2="240"
+            stroke-width="3"  />
+        <line x1="180" y1="220" x2="170" y2="240"
+            stroke-width="3"  />
+
+        <line x1="270" y1="220" x2="270" y2="280"
+            stroke-width="3"  />
+        <line x1="270" y1="220" x2="280" y2="240"
+            stroke-width="3"  />
+        <line x1="270" y1="220" x2="260" y2="240"
+            stroke-width="3"  />
+        
+
+        <line x1="180" y1="320" x2="180" y2="380"
+            stroke-width="3"  />
+        <line x1="180" y1="320" x2="190" y2="340"
+            stroke-width="3"  />
+        <line x1="180" y1="320" x2="170" y2="340"
+            stroke-width="3"  />
+
+        <line x1="270" y1="320" x2="270" y2="380"
+            stroke-width="3"  />
+        <line x1="270" y1="320" x2="280" y2="340"
+            stroke-width="3"  />
+        <line x1="270" y1="320" x2="260" y2="340"
+            stroke-width="3"  />
+        <text x="300" y="260" font-family="Verdana" font-size="32" fill="orange" > q </text>
+    </g>
+    <g stroke="black" >
+        <line x1="100" y1="700" x2="350" y2="700"
+            stroke-width="8"  />
+    </g>
+    <text x="350" y="260" font-family="Verdana" font-size="32" fill="black" > Уч.1 </text>
+    <text x="350" y="450" font-family="Verdana" font-size="32" fill="black" > Уч.2 </text>
+    <text x="350" y="590" font-family="Verdana" font-size="32" fill="black" > Уч.3 </text>
+
+    <text x="350" y="280" font-family="Verdana" font-size="24" fill="black" > длина=2a </text>
+    <text x="350" y="470" font-family="Verdana" font-size="24" fill="black" > длина=a </text>
+    <text x="350" y="610" font-family="Verdana" font-size="24" fill="black" > длина=a </text>
+
+    <text x="350" y="300" font-family="Verdana" font-size="24" fill="black" > площадь=А </text>
+    <text x="350" y="490" font-family="Verdana" font-size="24" fill="black" > площадь=4А  </text>
+    <text x="350" y="630" font-family="Verdana" font-size="24" fill="black" > площадь=4А  </text>
+
+
+</svg>
